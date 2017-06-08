@@ -1,0 +1,10 @@
+c:\users\samsung\documents\visual studio 2015\Projects\Procrastinacao\Inicio\bin\Debug\Inicio.exe.config
+c:\users\samsung\documents\visual studio 2015\Projects\Procrastinacao\Inicio\bin\Debug\Inicio.exe
+c:\users\samsung\documents\visual studio 2015\Projects\Procrastinacao\Inicio\bin\Debug\Inicio.pdb
+c:\users\samsung\documents\visual studio 2015\Projects\Procrastinacao\Inicio\obj\Debug\Inicio.csprojResolveAssemblyReference.cache
+c:\users\samsung\documents\visual studio 2015\Projects\Procrastinacao\Inicio\obj\Debug\Inicio.Properties.Resources.resources
+c:\users\samsung\documents\visual studio 2015\Projects\Procrastinacao\Inicio\obj\Debug\Inicio.csproj.GenerateResource.Cache
+c:\users\samsung\documents\visual studio 2015\Projects\Procrastinacao\Inicio\obj\Debug\Inicio.exe
+c:\users\samsung\documents\visual studio 2015\Projects\Procrastinacao\Inicio\obj\Debug\Inicio.pdb
+c:\users\samsung\documents\visual studio 2015\Projects\Procrastinacao\Inicio\obj\Debug\Inicio.TelaInicial.resources
+c:\users\samsung\documents\visual studio 2015\Projects\Procrastinacao\Inicio\obj\Debug\Inicio.Time.resources
